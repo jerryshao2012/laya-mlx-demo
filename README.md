@@ -26,6 +26,15 @@ You can run the demo directly with:
 uv run laya-mlx-demo
 ```
 
+### Additional Demos
+
+Ported from Jev demo scenarios for local MLX execution:
+
+- **Minimal boolean check**: `uv run python src/laya_mlx_demo/smallest_success.py`
+- **Parallel multi-question evaluation**: `uv run python src/laya_mlx_demo/parallel_questions.py`
+- **Policy signals extraction**: `uv run python src/laya_mlx_demo/policy_stage.py`
+- **End-to-end policy ticket routing**: `uv run python src/laya_mlx_demo/ticket_workflow.py`
+
 ### Python Example
 
 ```python

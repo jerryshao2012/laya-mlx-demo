@@ -1,6 +1,5 @@
-import time
-
 import laya_mlx as laya
+import time
 
 
 def main() -> None:
